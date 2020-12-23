@@ -7,6 +7,7 @@ function swap(a,b, array){
 
 function insertionSort(array) {
   // Write your code here.
+  // O(n^2)
 	for(let i = 0; i<array.length; i++){
 		j = i
 		while(j> 0 && array[j]<array[j-1]){
