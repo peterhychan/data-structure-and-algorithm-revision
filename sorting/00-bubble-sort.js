@@ -1,5 +1,6 @@
 function bubbleSort(array) {
   // Write your code here.
+  // O(n^2) -> Time
 	let temp
 	for(let i = 0 ; i <array.length ;i++){
 		for(let j = 0; j<array.length ; j++){
