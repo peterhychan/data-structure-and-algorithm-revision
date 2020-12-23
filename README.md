@@ -1,2 +1,3 @@
-# data-structure-and-algorithm-revision
-a revision repo for data structure and algorithm
+# Data Structure and Algorithm Revision
+
+This is the repository records my revisions on data structure and algorithm in JavaScript.
